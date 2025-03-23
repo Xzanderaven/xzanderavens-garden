@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"bat","permalink":"/Digital Garden/BatFam Reference Sheet/","dgPassFrontmatter":true,"noteIcon":"bat"}
+{"dg-publish":true,"dg-note-icon":"4","permalink":"/Digital Garden/BatFam Reference Sheet/","dgPassFrontmatter":true,"noteIcon":"4"}
 ---
 
 
@@ -21,6 +21,7 @@ This is a list of various resources (mostly YouTube channels) for writing to dra
 [Anatomy Standard](https://www.youtube.com/@anatomystandard) - anatomy
 [Angel Ganev](https://www.youtube.com/@AngelGanev) - artist tips
 [Anton Fomenko](https://www.youtube.com/@AntonFomenko) - stunts, comedy
+[Ash Watson](https://youtube.com/@AshWatsonVlogs) - gymnast
 [blumineck](https://www.youtube.com/@blumineck) - archer, pole dancer, nerd
 [Bob Reese](https://www.youtube.com/@bob_reese) - parkour
 [Cane Masters](https://www.youtube.com/@CaneMasters-WalkingCanes) - cane training
