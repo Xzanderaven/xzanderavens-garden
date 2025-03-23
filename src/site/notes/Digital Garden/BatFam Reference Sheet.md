@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-note-icon":"1","permalink":"/Digital Garden/BatFam Reference Sheet/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/Digital Garden/BatFam Reference Sheet/","noteIcon":"1"}
 ---
 
 
