@@ -4,9 +4,8 @@ body {
   --note-icon-3: url(/img/tree-3.svg);
   --note-icon-fallback: url(/img/default-note-icon.svg);
     
-.content {
-   -webkit-box-sizing: border-box;
-   box-sizing: border-box;
+#disqus_thread {
+  box-sizing: border-box;
    min-width: 350px;
    width: 100%;
     position: relative;
