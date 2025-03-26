@@ -10,8 +10,17 @@ body {
     //  h1 {
     //color: #E0DDCD;
     //  }
-  --note-icon-1: url(/img/bat.svg);
-  --note-icon-2: url(/img/tree-2.svg);
-  --note-icon-3: url(/img/tree-3.svg);
-  --note-icon-fallback: url(/img/default-note-icon.svg);
+ // --note-icon-1: url(/img/bat.svg);
+ // --note-icon-2: url(/img/tree-2.svg);
+//  --note-icon-3: url(/img/tree-3.svg);
+//  --note-icon-fallback: url(/img/default-note-icon.svg);
+
+#disqus_thread {
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   min-width: 480px;
+   padding: 20px;
+   width: 100%;
+}
+    
 }
