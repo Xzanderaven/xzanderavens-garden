@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/🪻🌸Welcome to my Garden!📖👋/","tags":["gardenEntry"],"noteIcon":""}
 ---
-
+<body id="home">
 <center>Welcome!</center>
 
 <center>Come have a look around.</center>
