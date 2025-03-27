@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🪻🌸Welcome to my Garden!📖👋/","tags":["gardenEntry"],"noteIcon":"", "id:"home""}
+{"dg-publish":true,"permalink":"/🪻🌸Welcome to my Garden!📖👋/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 <center>Welcome!</center>
