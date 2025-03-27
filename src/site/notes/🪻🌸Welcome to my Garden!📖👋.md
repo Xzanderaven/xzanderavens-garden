@@ -1,9 +1,8 @@
-<head id="home">
 ---
-{"dg-publish":true,"permalink":"/🪻🌸Welcome to my Garden!📖👋/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Welcome!/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-<center>Welcome!</center>
+<center🪻🌸Welcome to my Garden!📖👋</center>
 
 <center>Come have a look around.</center>
 
