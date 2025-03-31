@@ -93,7 +93,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
 
-<!{% if page.comments == true %}
+<!-- {% if page.comments == true %}
   <section class="post__comments">
     {% if site.repository and site.staticman.branch %}
       {% if site.data.comments[page.slug] %}
@@ -140,7 +140,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         </fieldset>
       </form>
       <!-- End new comment form -->
-    {% endif %}>
+    {% endif %} -->
   </section>
 {% endif %}
   </body>
