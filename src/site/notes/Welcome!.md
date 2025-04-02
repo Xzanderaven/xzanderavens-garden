@@ -11,4 +11,3 @@
 <p> </p>
 <center>Stay tuned for further changes, including comments!</center>
 
-![raven.jpg](/img/user/raven.jpg)
