@@ -19,5 +19,7 @@ body {
    width: 100%;
   }
 
-.cm-s-obsidian: url(src/site/img/'background-1.png');
+body.ficus-ruby.theme-light {
+    --background-primary: url(src/site/img/'background-1.png');
+  }
 }
