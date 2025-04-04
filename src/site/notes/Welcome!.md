@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome!/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Welcome!/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 <center>🪻🌸Welcome to my Garden!📖👋</center>
@@ -10,4 +10,3 @@
 <p> </p>
 <p> </p>
 <center>Stay tuned for further changes, including comments!</center>
-
