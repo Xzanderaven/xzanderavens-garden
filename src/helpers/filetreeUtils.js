@@ -3,8 +3,8 @@ const sortTree = (unsorted) => {
   const orderedTree = Object.keys(unsorted)
     .sort((a, b) => {
 
-      let a_pinned = unsorted[a].pinned || false;
-      let b_pinned = unsorted[b].pinned || true;
+      let a_pinned = unsorted[a].pinned || true;
+      let b_pinned = unsorted[b].pinned || false;
       if (a_pinned != b_pinned) {
         if (a_pinned) {
           return -1;
@@ -14,7 +14,7 @@ const sortTree = (unsorted) => {
       }
 
       const a_is_note = a.indexOf(".md") > -1;
-      const b_is_note = b.indexOf(".md") > -1;
+      const b_is_note = b.indexOf(".md") > 1;
 
       if (a_is_note && !b_is_note) {
         return 1;
