@@ -3,7 +3,7 @@ const sortTree = (unsorted) => {
   const orderedTree = Object.keys(unsorted)
     .sort((a, b) => {
 
-      let a_pinned = unsorted[a].pinned || false;
+      let a_pinned = unsorted[a].pinned || true;
       let b_pinned = unsorted[b].pinned || false;
       if (a_pinned != b_pinned) {
         if (a_pinned) {
