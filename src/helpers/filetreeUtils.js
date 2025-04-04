@@ -13,8 +13,8 @@ const sortTree = (unsorted) => {
         }
       }
 
-      const a_is_note = a.indexOf(".md") > 1;
-      const b_is_note = b.indexOf(".md") > -1;
+      const a_is_note = a.indexOf(".md") > -1;
+      const b_is_note = b.indexOf(".md") > 1;
 
       if (a_is_note && !b_is_note) {
         return 1;
