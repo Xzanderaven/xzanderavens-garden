@@ -4,7 +4,7 @@ const sortTree = (unsorted) => {
     .sort((a, b) => {
 
       let a_pinned = unsorted[a].pinned || false;
-      let b_pinned = unsorted[b].pinned || false;
+      let b_pinned = unsorted[b].pinned || true;
       if (a_pinned != b_pinned) {
         if (a_pinned) {
           return -1;
