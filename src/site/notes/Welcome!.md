@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome!/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-03-23T09:21:45.631-05:00","updated":"2025-04-04T20:36:52.386-05:00"}
+{"dg-publish":true,"permalink":"/Welcome!/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-03-23T09:21:45.631-05:00","updated":"2025-04-05T15:05:34.138-05:00"}
 ---
 
 <center>🪻🌸Welcome to my Garden!📖👋</center>
@@ -13,3 +13,4 @@
 
 
 ![raven-logo.png](/img/user/raven-logo.png)
+![icon map attempt.png](/img/user/icon%20map%20attempt.png)
