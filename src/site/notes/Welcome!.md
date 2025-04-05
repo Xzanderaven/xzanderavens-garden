@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome!/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Welcome!/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-03-23T09:21:45.631-05:00","updated":"2025-04-04T20:36:52.386-05:00"}
 ---
 
 <center>🪻🌸Welcome to my Garden!📖👋</center>
@@ -10,3 +10,6 @@
 <p> </p>
 <p> </p>
 <center>Stay tuned for further changes, including comments!</center>
+
+
+![raven-logo.png](/img/user/raven-logo.png)
