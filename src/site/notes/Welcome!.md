@@ -12,4 +12,4 @@
 <center>Stay tuned for further changes, including comments!</center>
 
 
-![raven-logo.png](/img/user/raven-logo.png){ width="600" height="600" style="display: block; margin: 0 auto" }
+![raven-logo.png](/img/user/raven-logo.png){width="600" height="600" style="display: block; margin: auto"}
